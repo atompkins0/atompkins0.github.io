@@ -1,0 +1,56 @@
+<html>
+
+<head>
+<title>Resume</title>
+<style>
+h1{
+	text-align: center;
+}
+h3 {
+	border-bottom:2px solid black;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Resume</h1>
+</header>
+<section>
+<article>
+<header><h2>Alexander Tompkins</h2>
+<p>
+2249 Tamerine St Winter Park, FL 32792<br>
+atompkins0@yahoo.com	
+</p>
+</header>
+<section>
+<h3>Career Overview</h3>
+<p>Currently a Student Developer well-versed in structuring, developing and implementing interactive websites. Current major is Computer Programming as developing and creating something great<br> is what really appeals to me and is something that I've always been extremely driven to do.</p>
+<h3>Qualifications</h3>
+<ul>
+	<li>Knowledge of streaming video platforms</li>
+	<li>Strong collaborative skills</li>
+	<li>Always willing to speak up in a group setting</li>
+	<li>Programming and Design Skills</li>
+	<li>Very teachable, always willing to learn new jobs or techniques</li>
+	<li>Very adaptive, able to work efficiently and effectively whether i'm alone or collaboratively in a group</li>
+</ul>
+<h3>Work Experience</h3>
+<dl>
+	<dt><strong>Lobby/Back of House</strong></dt>
+	<dd>January 2015 to December 2015</dd>
+	<dd><strong>Crispers</strong> - Winter Park, FL</dd>
+	<dd>I worked part-time between classes at a restaurant near my college for most of 2015, starting out in the back of house as a cook and working my way up to Lobby/Delivery as time went on.</dd>
+</dl>
+<h3>Education and Training</h3>
+<dl>
+	<dt><strong>High School Diploma</strong>: 2012</dt>
+	<dd><strong>Oviedo High School</strong> - Oviedo, FL, United States</dd>
+</dl>
+</section>
+</article>
+</section>
+</body>
+</html>
